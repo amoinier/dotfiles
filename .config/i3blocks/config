@@ -1,40 +1,48 @@
 separator_block_width=30
 color=#F3F4F5
 
+
+[spotify]
+label=
+command=~/.config/i3blocks/scripts/spotify/spotify.py
+color=#32cd32
+interval=1
+
 [cpu_usage]
 command=~/.config/i3blocks/scripts/cpu_usage
+label=
 interval=10
 min_width=100%
 
 [volume]
 command=~/.config/i3blocks/scripts/volume
-label=VOL
-#label=♪
+label=
 instance=Master
-#instance=PCM
-interval=once
+interval=1
 signal=10
 
 [memory]
 command=~/.config/i3blocks/scripts/memory
+label=
 interval=30
 
 [disk-home]
 command=df -h -P -l $HOME | awk '/\/.*/ { print $3; exit 0 }'
+label=
 interval=30
 
 [iface]
 command=~/.config/i3blocks/scripts/iface
 interval=10
+label=
 
 [time]
-label=
 command=date '+%a, %d %b %H:%M'
-interval=5
+interval=2
 
 [batterybar]
 command=~/.config/i3blocks/scripts/batterybar
-interval=5
+interval=2
 markup=pango
 min_width=■■■■■
 

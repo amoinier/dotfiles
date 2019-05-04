@@ -1,0 +1,29 @@
+[Info  - 3:12:55 PM] ESLint server stopped.
+[Info  - 3:12:59 PM] ESLint server running in node v10.2.0
+[Info  - 3:12:59 PM] ESLint server is running.
+[Info  - 3:13:03 PM] 
+Failed to load the ESLint library for the document /home/alex/Projects/virtuo/index.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder virtuo
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder virtuo by executing the 'Disable ESLint' command.
+[Info  - 3:13:05 PM] 
+Failed to load the ESLint library for the document /home/alex/Projects/EventBook/app.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder EventBook
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder EventBook by executing the 'Disable ESLint' command.
+[Info  - 3:30:46 PM] 
+Failed to load the ESLint library for the document /home/alex/Projects/virtuo/controllers/utils.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder virtuo
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder virtuo by executing the 'Disable ESLint' command.
+[Info  - 3:31:14 PM] ESLint library loaded from: /home/alex/Projects/EventBook/node_modules/eslint/lib/api.js
+[Info  - 3:39:07 PM] ESLint server stopped.

@@ -1,0 +1,482 @@
+[Info  - 3:11:54 PM] ESLint server stopped.
+[Info  - 3:11:55 PM] ESLint server running in node v10.2.0
+[Info  - 3:11:55 PM] ESLint server is running.
+[Info  - 3:11:56 PM] ESLint library loaded from: /home/alex/Projects/EventBook-front/node_modules/eslint/lib/api.js
+[Error - 3:23:32 PM] ESLint stack trace:
+[Error - 3:23:32 PM] SyntaxError: Unexpected token } in JSON at position 1299
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:23:32 PM] ESLint stack trace:
+[Error - 3:23:32 PM] SyntaxError: Unexpected token } in JSON at position 1299
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:23:32 PM] ESLint stack trace:
+[Error - 3:23:32 PM] SyntaxError: Unexpected token } in JSON at position 1299
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:23:32 PM] ESLint stack trace:
+[Error - 3:23:32 PM] SyntaxError: Unexpected token } in JSON at position 1299
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:35:59 PM] ESLint stack trace:
+[Error - 3:35:59 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:35:59 PM] ESLint stack trace:
+[Error - 3:35:59 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:35:59 PM] ESLint stack trace:
+[Error - 3:35:59 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:35:59 PM] ESLint stack trace:
+[Error - 3:35:59 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:03 PM] ESLint stack trace:
+[Error - 3:36:03 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:03 PM] ESLint stack trace:
+[Error - 3:36:03 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:04 PM] ESLint stack trace:
+[Error - 3:36:04 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:08 PM] ESLint stack trace:
+[Error - 3:36:08 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:09 PM] ESLint stack trace:
+[Error - 3:36:09 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:10 PM] ESLint stack trace:
+[Error - 3:36:10 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:11 PM] ESLint stack trace:
+[Error - 3:36:11 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:14 PM] ESLint stack trace:
+[Error - 3:36:14 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:14 PM] ESLint stack trace:
+[Error - 3:36:14 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:15 PM] ESLint stack trace:
+[Error - 3:36:15 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:15 PM] ESLint stack trace:
+[Error - 3:36:15 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:17 PM] ESLint stack trace:
+[Error - 3:36:17 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:18 PM] ESLint stack trace:
+[Error - 3:36:18 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:18 PM] ESLint stack trace:
+[Error - 3:36:18 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:18 PM] ESLint stack trace:
+[Error - 3:36:18 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:19 PM] ESLint stack trace:
+[Error - 3:36:19 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:19 PM] ESLint stack trace:
+[Error - 3:36:19 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:20 PM] ESLint stack trace:
+[Error - 3:36:20 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:21 PM] ESLint stack trace:
+[Error - 3:36:21 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:22 PM] ESLint stack trace:
+[Error - 3:36:22 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:23 PM] ESLint stack trace:
+[Error - 3:36:23 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:23 PM] ESLint stack trace:
+[Error - 3:36:23 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:24 PM] ESLint stack trace:
+[Error - 3:36:24 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:24 PM] ESLint stack trace:
+[Error - 3:36:24 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:25 PM] ESLint stack trace:
+[Error - 3:36:25 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:25 PM] ESLint stack trace:
+[Error - 3:36:25 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:26 PM] ESLint stack trace:
+[Error - 3:36:26 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:26 PM] ESLint stack trace:
+[Error - 3:36:26 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:26 PM] ESLint stack trace:
+[Error - 3:36:26 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:27 PM] ESLint stack trace:
+[Error - 3:36:27 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:28 PM] ESLint stack trace:
+[Error - 3:36:28 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:28 PM] ESLint stack trace:
+[Error - 3:36:28 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:29 PM] ESLint stack trace:
+[Error - 3:36:29 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:30 PM] ESLint stack trace:
+[Error - 3:36:30 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:30 PM] ESLint stack trace:
+[Error - 3:36:30 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:31 PM] ESLint stack trace:
+[Error - 3:36:31 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:31 PM] ESLint stack trace:
+[Error - 3:36:31 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:32 PM] ESLint stack trace:
+[Error - 3:36:32 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:33 PM] ESLint stack trace:
+[Error - 3:36:33 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:33 PM] ESLint stack trace:
+[Error - 3:36:33 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:34 PM] ESLint stack trace:
+[Error - 3:36:34 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:36 PM] ESLint stack trace:
+[Error - 3:36:36 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:36 PM] ESLint stack trace:
+[Error - 3:36:36 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:37 PM] ESLint stack trace:
+[Error - 3:36:37 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:39 PM] ESLint stack trace:
+[Error - 3:36:39 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:40 PM] ESLint stack trace:
+[Error - 3:36:40 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:41 PM] ESLint stack trace:
+[Error - 3:36:41 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:55 PM] ESLint stack trace:
+[Error - 3:36:55 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:36:59 PM] ESLint stack trace:
+[Error - 3:36:59 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:00 PM] ESLint stack trace:
+[Error - 3:37:00 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:03 PM] ESLint stack trace:
+[Error - 3:37:03 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:11 PM] ESLint stack trace:
+[Error - 3:37:11 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:11 PM] ESLint stack trace:
+[Error - 3:37:11 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:13 PM] ESLint stack trace:
+[Error - 3:37:13 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:13 PM] ESLint stack trace:
+[Error - 3:37:13 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:14 PM] ESLint stack trace:
+[Error - 3:37:14 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:14 PM] ESLint stack trace:
+[Error - 3:37:14 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:15 PM] ESLint stack trace:
+[Error - 3:37:15 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:15 PM] ESLint stack trace:
+[Error - 3:37:15 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Error - 3:37:16 PM] ESLint stack trace:
+[Error - 3:37:16 PM] SyntaxError: Unexpected token } in JSON at position 1232
+    at JSON.parse (<anonymous>)
+    at new IgnoredPaths (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/util/ignored-paths.js:203:55)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:665:28)
+    at /home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35002
+    at W.E.get.N.then.n (/home/alex/.vscode/extensions/dbaeumer.vscode-eslint-1.8.2/server/out/eslintServer.js:1:35937)
+[Info  - 4:52:35 PM] ESLint library loaded from: /home/alex/Projects/EventBook/node_modules/eslint/lib/api.js
+[Error - 7:27:05 PM] Failed to apply command: eslint.applyAllFixes

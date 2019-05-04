@@ -1,0 +1,1097 @@
+Looking for git in: git
+Using git 2.21.0 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/alex/Projects/optionizr_main
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_22_03_Update_Module
+> git config --local -l
+> git rev-parse --symbolic-full-name AM_22_03_Update_Module@{u}
+fatal: no upstream configured for branch 'AM_22_03_Update_Module'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_22_03_Update_Module
+> git rev-parse --symbolic-full-name AM_22_03_Update_Module@{u}
+fatal: no upstream configured for branch 'AM_22_03_Update_Module'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local branch.AM_22_03_Update_Module.github-pr-owner-number
+> git check-ignore -z --stdin
+> git config --local -l
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_22_03_Update_Module
+> git rev-parse --symbolic-full-name AM_22_03_Update_Module@{u}
+fatal: no upstream configured for branch 'AM_22_03_Update_Module'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local branch.AM_22_03_Update_Module.github-pr-owner-number
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local -l
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local branch.develop_splitscript.github-pr-owner-number
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_EXTRANET_MERCHANT/views/dashboard.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :locales/en.js
+> git show :APP_EXTRANET_MERCHANT/views/dashboard.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ZPLINTR_EXTRANET/locales/fr.js
+> git show :APP_EXTRANET_MERCHANT/views/dashboard.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ZPLINTR_EXTRANET/views/dashboard/dashboard.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ZPLINTR_EXTRANET/locales/en.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ZPLINTR_EXTRANET/views/dashboard/dashboard.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse develop_splitscript
+> git rev-parse --symbolic-full-name develop_splitscript@{u}
+> git rev-list --left-right develop_splitscript...refs/remotes/origin/develop_splitscript
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local -l
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local branch.AM_25_03_Fix_Zplintr.github-pr-owner-number
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local -l
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local branch.AM_25_03_Fix_Zplintr.github-pr-owner-number
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/locales/en.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :APP_MAIL/views/templates/zplintr/split.ejs
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/views/templates/zplintr/split.ejs
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_MAIL/views/templates/zplintr/split.ejs
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/locales/en.js
+> git show :APP_MAIL/locales/fr.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/app.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :APP_MAIL/locales/fr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :APP_MAIL/locales/en.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/locales/fr.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/locales/fr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/locales/fr.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/locales/fr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :shared_models/ZplintrRequest.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/locales/en.js
+> git show :APP_MAIL/locales/fr.js
+> git show :APP_MAIL/locales/en.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/locales/en.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local -l
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --local branch.AM_25_03_Fix_Zplintr.github-pr-owner-number
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ACCOUNT/views/login.ejs
+> git show :APP_ADMIN/views/billing/merchantsdetails.ejs
+> git show :APP_ADMIN/views/details/modals/bookEngineSelect.ejs
+> git show :APP_ADMIN/views/details/modals/bookingEngine.ejs
+> git show :APP_ADMIN/views/details/modals/connectionInfo.ejs
+> git show :APP_ADMIN/views/refund.ejs
+> git show :APP_ADMIN/views/refunds.ejs
+> git show :APP_ADMIN/views/refund.ejs
+> git show :APP_ADMIN/views/singleRefund.ejs
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_ADMIN/views/zplintr/request/actions.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git show :APP_ADMIN/views/zplintr/details.ejs
+> git show :APP_ADMIN/views/zplintr/request/actions.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_ADMIN/views/zplintr/details.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/app.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git show :APP_ADMIN/app.js
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git show :APP_ADMIN/app.js
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/views/templates/zplintr/notification.ejs
+> git show :APP_ADMIN/app.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git show :APP_ADMIN/app.js
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git show :APP_ADMIN/app.js
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/app.js
+> git show :APP_ADMIN/views/zplintr/details.ejs
+> git show :APP_ADMIN/views/zplintr/request/actions.ejs
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_ADMIN/views/zplintr/request/actions.ejs
+> git show :APP_ADMIN/views/zplintr/details.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/app.js
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git show :APP_ADMIN/app.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/views/zplintr/details.ejs
+> git show :APP_ADMIN/views/customer/customers.ejs
+> git show :APP_ADMIN/views/zplintr/details.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/views/zplintr/details.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/app.js
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git show :APP_ADMIN/app.js
+> git show :APP_ADMIN/views/zplintr/details.ejs
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git show :APP_ADMIN/views/zplintr/request/actions.ejs
+> git show :APP_ADMIN/views/billing/merchantsdetails.ejs
+> git show :APP_ADMIN/views/zplintr/request/actions.ejs
+> git show :APP_ADMIN/views/zplintr/details.ejs
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/controllers/booking_config.js
+> git show :APP_ADMIN/controllers/details/clearData.js
+> git show :APP_ADMIN/views/zplintr/details.ejs
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git show :APP_ADMIN/controllers/details/clearData.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git status -z -u
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/controllers/details/clearData.js
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git show :APP_ADMIN/app.js
+> git show :APP_ADMIN/controllers/zplintr/request_validate.js
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/controllers/details/clearData.js
+> git show :APP_ADMIN/views/billing/merchantsdetails.ejs
+> git show :APP_ADMIN/views/customer/customers.ejs
+> git show :APP_MAIL/controllers/email/zplintrnotification.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ZPLINTR/controllers/API/topay.js
+> git check-ignore -z --stdin
+> git ls-tree -l HEAD -- /home/alex/Projects/optionizr_main/APP_MAIL/controllers/email/zplintrnotification.js
+> git show bb10acb0548f90dafeed10e79d577dce6cdb9d67
+> git show HEAD:APP_MAIL/controllers/email/zplintrnotification.js
+> git checkout -q -- /home/alex/Projects/optionizr_main/APP_MAIL/controllers/email/zplintrnotification.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show HEAD:APP_MAIL/controllers/email/zplintrnotification.js
+> git show :APP_ADMIN/views/zplintr/request/actions.ejs
+> git show :APP_ZPLINTR/controllers/API/topay.js
+> git show :APP_MAIL/views/email/sendmail/notification.ejs
+> git show :APP_ZPLINTR/controllers/API/topay.js
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ZPLINTR/controllers/API/topay.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/email/sendemail.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ZPLINTR/controllers/API/topay.js
+> git show :APP_MAIL/middlewares/set_checkers.js
+> git show :APP_ZPLINTR/controllers/API/topay.js
+> git show :APP_MAIL/controllers/email/sendemail.js
+> git check-ignore -z --stdin
+> git show :APP_MAIL/controllers/helpers/retrieve_title.js
+> git show :APP_MAIL/controllers/email/sendemail.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/helpers/retrieve_title.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :APP_MAIL/controllers/helpers/retrieve_title.js
+> git show :APP_MAIL/controllers/email/sendemail.js
+> git show :APP_MAIL/controllers/helpers/retrieve_title.js
+> git show :APP_MAIL/controllers/email/sendemail.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/helpers/retrieve_title.js
+> git show :APP_MAIL/controllers/email/sendemail.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_MAIL/controllers/helpers/retrieve_title.js
+> git show :APP_MAIL/controllers/email/sendemail.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -z --stdin
+> git ls-tree -l HEAD -- /home/alex/Projects/optionizr_main/APP_ADMIN/controllers/zplintr/request_validate.js
+> git show 2a69d1c38b11fe21dfa44023dee2689721fdfa5e
+> git show HEAD:APP_ADMIN/controllers/zplintr/request_validate.js
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse AM_25_03_Fix_Zplintr
+> git rev-parse --symbolic-full-name AM_25_03_Fix_Zplintr@{u}
+fatal: no upstream configured for branch 'AM_25_03_Fix_Zplintr'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :APP_ADMIN/controllers/zplintr/request_cancel.js
+> git show :APP_MAIL/controllers/email/sendemail.js
+> git show :APP_ZPLINTR/controllers/API/topay.js
+> git show :APP_MAIL/controllers/helpers/retrieve_title.js

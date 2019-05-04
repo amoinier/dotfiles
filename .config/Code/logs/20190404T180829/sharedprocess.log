@@ -1,0 +1,33 @@
+[2019-04-04 18:08:33.266] [sharedprocess] [info] main {"machineId":"0fbda7ce6ef26c3850e56c6db10cececd72c40fded58aa690a29dd2a69f5ee09"}
+[2019-04-04 18:08:33.606] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:08:33.669] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:08:33.718] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:08:33.787] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-04 18:08:33.814] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-04 18:08:35.144] [sharedprocess] [info] Installing extension: vincaslt.highlight-matching-tag
+[2019-04-04 18:08:35.155] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:08:35.753] [sharedprocess] [info] Downloaded extension: vincaslt.highlight-matching-tag /tmp/49862dab-5d3a-4982-a4af-7e0c8063f886
+[2019-04-04 18:08:35.783] [sharedprocess] [info] Extracted extension to /home/alex/.vscode/extensions/.vincaslt.highlight-matching-tag-0.9.1: vincaslt.highlight-matching-tag
+[2019-04-04 18:08:35.784] [sharedprocess] [info] Renamed to /home/alex/.vscode/extensions/vincaslt.highlight-matching-tag-0.9.1
+[2019-04-04 18:08:35.785] [sharedprocess] [info] Installation completed. vincaslt.highlight-matching-tag
+[2019-04-04 18:08:35.791] [sharedprocess] [info] Extensions installed successfully: vincaslt.highlight-matching-tag
+[2019-04-04 18:09:13.275] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-04-04 18:13:33.914] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:18:34.058] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:23:34.128] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:28:34.205] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:33:34.284] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:38:34.373] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:43:34.460] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:48:34.548] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:53:34.625] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 18:58:34.658] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 19:03:34.705] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 19:08:34.787] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 19:13:34.915] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 19:18:35.008] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 19:23:35.067] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 19:28:35.131] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 19:33:35.212] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 19:38:35.276] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-04 19:43:35.349] [sharedprocess] [info] Scanned user extensions: 21

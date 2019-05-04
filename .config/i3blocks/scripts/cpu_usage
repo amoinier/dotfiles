@@ -28,7 +28,7 @@ sub help {
 GetOptions("help|h" => \&help,
            "w=i"    => \$t_warn,
            "c=i"    => \$t_crit,
-           "d=i"    => \$decimals,
+           "d=i"    => \$decimals, 
 );
 
 # Get CPU usage

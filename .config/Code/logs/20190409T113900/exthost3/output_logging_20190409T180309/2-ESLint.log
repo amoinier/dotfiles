@@ -1,0 +1,6 @@
+[Info  - 6:03:10 PM] ESLint server stopped.
+[Info  - 6:03:11 PM] ESLint server running in node v10.2.0
+[Info  - 6:03:12 PM] ESLint server is running.
+[Info  - 6:03:14 PM] ESLint library loaded from: /home/alex/Projects/EventBook-front/node_modules/eslint/lib/api.js
+[Error - 6:03:15 PM] Failed to load plugin promise: Cannot find module 'eslint-plugin-promise' Referenced from: /home/alex/Projects/EventBook-front/.eslintrc.json
+[Info  - 6:03:44 PM] ESLint server stopped.

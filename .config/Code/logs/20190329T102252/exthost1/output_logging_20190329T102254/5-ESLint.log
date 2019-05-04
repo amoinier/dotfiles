@@ -1,0 +1,75 @@
+[Info  - 10:47:51 AM] ESLint server stopped.
+[Info  - 10:47:52 AM] ESLint server running in node v10.2.0
+[Info  - 10:47:52 AM] ESLint server is running.
+[Info  - 10:47:53 AM] 
+Failed to load the ESLint library for the document /home/alex/Projects/optionizr_main/APP_MAIL/controllers/helpers/retrieve_string/zplintr.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder optionizr_main
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder optionizr_main by executing the 'Disable ESLint' command.
+[Info  - 10:48:22 AM] 
+Failed to load the ESLint library for the document /home/alex/Projects/optionizr_main/APP_SCRIPT/controllers/fill_template_route.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder optionizr_main
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder optionizr_main by executing the 'Disable ESLint' command.
+[Info  - 10:48:52 AM] 
+Failed to load the ESLint library for the document /home/alex/Projects/optionizr_main/shared_features/cdn.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder optionizr_main
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder optionizr_main by executing the 'Disable ESLint' command.
+[Info  - 10:49:49 AM] 
+Failed to load the ESLint library for the document /home/alex/Projects/optionizr_main/APP_ADMIN/controllers/details/getDetails.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder optionizr_main
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder optionizr_main by executing the 'Disable ESLint' command.
+[Info  - 11:03:25 AM] 
+Failed to load the ESLint library for the document /home/alex/Projects/optionizr_main/shared_features/cdn.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder optionizr_main
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder optionizr_main by executing the 'Disable ESLint' command.
+[Info  - 11:08:44 AM] 
+Failed to load the ESLint library for the document /home/alex/Projects/optionizr_main/APP_ADMIN/controllers/details/getDetails.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder optionizr_main
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder optionizr_main by executing the 'Disable ESLint' command.
+[Info  - 11:12:15 AM] 
+Failed to load the ESLint library for the document /home/alex/Projects/optionizr_main/APP_ADMIN/app.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder optionizr_main
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder optionizr_main by executing the 'Disable ESLint' command.
+[Info  - 11:12:27 AM] 
+Failed to load the ESLint library for the document /home/alex/Projects/optionizr_main/APP_ADMIN/controllers/updateScript.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder optionizr_main
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder optionizr_main by executing the 'Disable ESLint' command.
+[Info  - 11:12:37 AM] 
+Failed to load the ESLint library for the document /home/alex/Projects/optionizr_main/APP_ADMIN/controllers/clearScript.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder optionizr_main
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder optionizr_main by executing the 'Disable ESLint' command.

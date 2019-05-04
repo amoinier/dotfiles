@@ -1,0 +1,6 @@
+[Info  - 5:52:21 PM] ESLint server stopped.
+[Info  - 5:52:22 PM] ESLint server running in node v10.2.0
+[Info  - 5:52:22 PM] ESLint server is running.
+[Info  - 5:52:24 PM] ESLint library loaded from: /home/alex/Projects/EventBook-front/node_modules/eslint/lib/api.js
+[Error - 6:01:35 PM] Cannot find module 'eslint-config-standard' Referenced from: /home/alex/Projects/EventBook-front/.eslintrc.json
+[Info  - 6:01:39 PM] ESLint server stopped.

@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Gruvbox Dark (Medium)",
+    "window.zoomLevel": 0,
+    "editor.snippetSuggestions": "top",
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "explorer.autoReveal": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "breadcrumbs.enabled": false,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.feedback.visible": false,
+    "[ejs]": {},
+}

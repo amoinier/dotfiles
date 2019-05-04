@@ -1,0 +1,71 @@
+[2019-03-25 10:11:27.241] [sharedprocess] [info] main {"machineId":"0fbda7ce6ef26c3850e56c6db10cececd72c40fded58aa690a29dd2a69f5ee09"}
+[2019-03-25 10:11:27.397] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:11:27.426] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:11:27.467] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-25 10:11:27.488] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-25 10:11:27.625] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/alex/.vscode/extensions/ms-vscode.cpptools-0.22.0
+[2019-03-25 10:11:28.715] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:11:29.923] [sharedprocess] [info] Installing extension: github.vscode-pull-request-github
+[2019-03-25 10:11:29.945] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:11:30.356] [sharedprocess] [info] Downloaded extension: github.vscode-pull-request-github /tmp/ab5faa56-71c4-45f5-a028-b373ca00adaf
+[2019-03-25 10:11:30.598] [sharedprocess] [info] Extracted extension to /home/alex/.vscode/extensions/.github.vscode-pull-request-github-0.5.1: github.vscode-pull-request-github
+[2019-03-25 10:11:30.599] [sharedprocess] [info] Renamed to /home/alex/.vscode/extensions/github.vscode-pull-request-github-0.5.1
+[2019-03-25 10:11:30.602] [sharedprocess] [info] Installation completed. github.vscode-pull-request-github
+[2019-03-25 10:11:30.666] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:11:30.710] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-25 10:11:30.711] [sharedprocess] [info] Extensions installed successfully: github.vscode-pull-request-github
+[2019-03-25 10:11:57.703] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:11:57.734] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-25 10:12:00.177] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:12:07.257] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-25 10:17:00.329] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:22:00.415] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:27:00.534] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:32:00.647] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:37:00.723] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:42:00.804] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:47:00.886] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:52:00.968] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 10:57:01.084] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 11:02:01.192] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 11:07:01.279] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 11:12:01.536] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 11:17:01.641] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 11:22:01.723] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 11:27:01.800] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 11:32:01.876] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 11:37:01.962] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 11:42:02.130] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 11:47:02.250] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 12:20:31.541] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 12:25:31.676] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 12:30:31.752] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 12:35:31.817] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 12:40:31.890] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 12:45:31.963] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 12:50:32.024] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 12:55:32.100] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:00:32.180] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:05:32.247] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:10:32.348] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:15:32.433] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:20:32.678] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:25:32.753] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:30:32.823] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:35:32.976] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:40:33.067] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:45:33.158] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:50:33.231] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 13:55:33.315] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 14:00:33.377] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 14:02:57.799] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 14:02:57.855] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-25 14:03:00.678] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 14:08:00.760] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 14:08:28.347] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 14:08:28.352] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 14:08:28.354] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 14:08:28.356] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-25 14:08:28.416] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-25 14:08:28.422] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-25 14:08:28.429] [sharedprocess] [info] Scanned system extensions: 72

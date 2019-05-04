@@ -34,15 +34,16 @@ interval=30
 [iface]
 command=~/.config/i3blocks/scripts/iface
 interval=10
+color=#3aebf0
 label=
 
 [time]
 command=date '+%a, %d %b %H:%M'
+color=#ff681f
 interval=2
 
-[batterybar]
-command=~/.config/i3blocks/scripts/batterybar
-interval=2
+[battery]
+command=~/.config/i3blocks/scripts/battery/battery.py
+interval=5
 markup=pango
-min_width=■■■■■
 

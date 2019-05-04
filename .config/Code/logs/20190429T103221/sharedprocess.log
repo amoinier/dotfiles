@@ -1,0 +1,19 @@
+[2019-04-29 10:32:25.529] [sharedprocess] [info] main {"machineId":"0fbda7ce6ef26c3850e56c6db10cececd72c40fded58aa690a29dd2a69f5ee09"}
+[2019-04-29 10:32:25.951] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-29 10:32:26.082] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-29 10:32:26.105] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-29 10:32:26.121] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-29 10:32:26.164] [sharedprocess] [info] Scanned system extensions: 72
+[2019-04-29 10:32:26.185] [sharedprocess] [info] Deleted from disk dart-code.flutter /home/alex/.vscode/extensions/dart-code.flutter-2.25.0
+[2019-04-29 10:32:26.189] [sharedprocess] [info] Deleted from disk dart-code.dart-code /home/alex/.vscode/extensions/dart-code.dart-code-2.25.0
+[2019-04-29 10:32:28.002] [sharedprocess] [info] Installing extension: wix.glean
+[2019-04-29 10:32:28.045] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-29 10:32:30.973] [sharedprocess] [info] Downloaded extension: wix.glean /tmp/b247f38b-975b-4ef8-9467-ed3392355923
+[2019-04-29 10:32:36.772] [sharedprocess] [info] Extracted extension to /home/alex/.vscode/extensions/.wix.glean-4.10.3: wix.glean
+[2019-04-29 10:32:36.773] [sharedprocess] [info] Renamed to /home/alex/.vscode/extensions/wix.glean-4.10.3
+[2019-04-29 10:32:36.773] [sharedprocess] [info] Installation completed. wix.glean
+[2019-04-29 10:32:36.786] [sharedprocess] [info] Extensions installed successfully: wix.glean
+[2019-04-29 10:33:05.558] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-04-29 10:37:26.195] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-29 10:42:26.391] [sharedprocess] [info] Scanned user extensions: 21
+[2019-04-29 10:47:26.441] [sharedprocess] [info] Scanned user extensions: 21

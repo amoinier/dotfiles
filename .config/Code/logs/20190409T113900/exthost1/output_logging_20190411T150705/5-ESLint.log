@@ -1,0 +1,33 @@
+[Info  - 3:07:10 PM] ESLint server stopped.
+[Info  - 3:07:10 PM] ESLint server running in node v10.2.0
+[Info  - 3:07:10 PM] ESLint server is running.
+[Info  - 3:07:11 PM] ESLint library loaded from: /home/alex/Projects/EventBook-front/node_modules/eslint/lib/api.js
+[Error - 3:08:13 PM] ESLint stack trace:
+[Error - 3:08:13 PM] Error: ESLint configuration in /home/alex/Projects/EventBook-front/.eslintrc.json is invalid:
+	- Unexpected top-level property "eslint.options".
+
+    at validateConfigSchema (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config/config-validator.js:235:15)
+    at Object.validate (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config/config-validator.js:261:5)
+    at loadFromDisk (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config/config-file.js:521:19)
+    at Object.load (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config/config-file.js:564:20)
+    at Config.getLocalConfigHierarchy (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config.js:240:44)
+    at Config.getConfigHierarchy (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config.js:192:43)
+    at Config.getConfigVector (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config.js:299:21)
+    at Config.getConfig (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config.js:342:29)
+    at processText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:180:33)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:686:40)
+[Error - 3:08:13 PM] ESLint stack trace:
+[Error - 3:08:13 PM] Error: ESLint configuration in /home/alex/Projects/EventBook-front/.eslintrc.json is invalid:
+	- Unexpected top-level property "eslint.options".
+
+    at validateConfigSchema (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config/config-validator.js:235:15)
+    at Object.validate (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config/config-validator.js:261:5)
+    at loadFromDisk (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config/config-file.js:521:19)
+    at Object.load (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config/config-file.js:564:20)
+    at Config.getLocalConfigHierarchy (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config.js:240:44)
+    at Config.getConfigHierarchy (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config.js:192:43)
+    at Config.getConfigVector (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config.js:299:21)
+    at Config.getConfig (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/config.js:342:29)
+    at processText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:180:33)
+    at CLIEngine.executeOnText (/home/alex/Projects/EventBook-front/node_modules/eslint/lib/cli-engine.js:686:40)
+[Info  - 3:08:48 PM] ESLint server stopped.

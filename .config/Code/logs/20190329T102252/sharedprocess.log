@@ -1,0 +1,81 @@
+[2019-03-29 10:22:55.814] [sharedprocess] [info] main {"machineId":"0fbda7ce6ef26c3850e56c6db10cececd72c40fded58aa690a29dd2a69f5ee09"}
+[2019-03-29 10:22:56.207] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:22:56.250] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:22:56.329] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-29 10:22:56.333] [sharedprocess] [info] Scanned system extensions: 72
+[2019-03-29 10:22:56.426] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:22:58.007] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-03-29 10:22:58.008] [sharedprocess] [info] Installing extension: wix.glean
+[2019-03-29 10:22:58.070] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:22:58.081] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:23:04.942] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/87cfab31-cb38-4194-b6d5-69f3830db96a
+[2019-03-29 10:23:06.463] [sharedprocess] [info] Extracted extension to /home/alex/.vscode/extensions/.ms-python.python-2019.3.6215: ms-python.python
+[2019-03-29 10:23:06.463] [sharedprocess] [info] Renamed to /home/alex/.vscode/extensions/ms-python.python-2019.3.6215
+[2019-03-29 10:23:06.466] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-03-29 10:23:06.475] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-03-29 10:23:12.470] [sharedprocess] [info] Downloaded extension: wix.glean /tmp/aa17c181-6304-4230-81fc-64ddacc1c2e7
+[2019-03-29 10:23:13.767] [sharedprocess] [info] Extracted extension to /home/alex/.vscode/extensions/.wix.glean-4.10.1: wix.glean
+[2019-03-29 10:23:13.767] [sharedprocess] [info] Renamed to /home/alex/.vscode/extensions/wix.glean-4.10.1
+[2019-03-29 10:23:13.767] [sharedprocess] [info] Installation completed. wix.glean
+[2019-03-29 10:23:13.778] [sharedprocess] [info] Extensions installed successfully: wix.glean
+[2019-03-29 10:23:35.829] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-03-29 10:27:56.543] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:32:56.598] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:37:56.705] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:42:56.791] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:47:56.840] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:52:56.880] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 10:57:56.964] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:02:57.080] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:07:57.209] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:12:57.373] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:17:57.600] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:22:57.820] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:27:57.892] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:32:57.970] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:37:58.095] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:42:58.149] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:47:58.225] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:52:58.325] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 11:57:58.449] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:02:58.627] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:07:58.860] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:12:58.908] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:17:58.979] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:22:59.225] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:27:59.430] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:32:59.649] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:37:59.806] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:42:59.853] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:47:59.965] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:53:00.110] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 12:58:00.224] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 13:03:00.350] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 14:30:43.714] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 14:35:43.910] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 14:40:43.959] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 14:45:43.999] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 14:50:44.053] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 14:55:44.141] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:00:44.194] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:05:44.227] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:10:44.274] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:15:44.299] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:20:44.317] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:25:44.337] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:30:44.409] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:35:44.431] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:40:44.455] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:45:44.477] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:50:44.501] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 15:55:44.531] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 16:12:37.964] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 16:17:37.990] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 16:22:38.016] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 16:27:38.052] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 16:32:38.252] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 16:37:38.277] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 16:42:38.334] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 16:47:38.404] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 16:52:38.475] [sharedprocess] [info] Scanned user extensions: 21
+[2019-03-29 16:57:38.574] [sharedprocess] [info] Scanned user extensions: 21

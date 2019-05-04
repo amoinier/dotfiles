@@ -1,0 +1,5 @@
+[Info  - 7:01:02 PM] ESLint server stopped.
+[Info  - 7:01:03 PM] ESLint server running in node v10.2.0
+[Info  - 7:01:03 PM] ESLint server is running.
+[Info  - 7:01:06 PM] ESLint library loaded from: /home/alex/Projects/EventBook-front/node_modules/eslint/lib/api.js
+[Info  - 7:01:10 PM] ESLint library loaded from: /home/alex/Projects/EventBook/node_modules/eslint/lib/api.js

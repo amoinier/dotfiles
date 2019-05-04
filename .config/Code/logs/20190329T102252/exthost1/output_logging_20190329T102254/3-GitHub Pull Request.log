@@ -1,0 +1,13 @@
+[Info] /home/alex/.ssh/config: ENOENT: no such file or directory, open '/home/alex/.ssh/config'
+[Info] Looking for git repository
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] No GitHub remotes found
+[Info] Review> no matching pull request metadata found for current branch AM_26_03_CheckPasswordClean
+[Info] No GitHub remotes found
+[Info] Review> no matching pull request metadata found for current branch AM_26_03_CheckPasswordClean
+[Info] No GitHub remotes found
+[Info] Review> no matching pull request metadata found for current branch deploy_prod
+[Info] No GitHub remotes found
+[Info] Review> no matching pull request metadata found for current branch deploy_prod
+[Info] No GitHub remotes found
+[Info] Review> no matching pull request metadata found for current branch AM_29_03_ClearScript

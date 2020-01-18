@@ -47,3 +47,7 @@ command=~/.config/i3blocks/scripts/battery/battery.py
 interval=5
 markup=pango
 
+[lamp]
+command=~/.config/i3blocks/scripts/lamp
+interval=1
+

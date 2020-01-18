@@ -1,7 +1,0 @@
-[Info  - 11:39:04 AM] ESLint server stopped.
-[Info  - 11:39:05 AM] ESLint server running in node v10.2.0
-[Info  - 11:39:05 AM] ESLint server is running.
-[Info  - 11:39:07 AM] ESLint library loaded from: /home/alex/Projects/EventBook/node_modules/eslint/lib/api.js
-[Info  - 12:08:46 PM] ESLint library loaded from: /home/alex/Projects/EventBook-front/node_modules/eslint/lib/api.js
-[Error - 3:05:35 PM] Cannot read config file: /home/alex/Projects/EventBook-front/.eslintrc.json Error: Unexpected token } in JSON at position 336
-[Info  - 3:05:40 PM] ESLint server stopped.

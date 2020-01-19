@@ -1,9 +1,0 @@
-[Info  - 5:46:37 PM] ESLint server stopped.
-[Info  - 5:46:37 PM] ESLint server running in node v10.2.0
-[Info  - 5:46:38 PM] ESLint server is running.
-[Info  - 5:46:39 PM] ESLint library loaded from: /home/alex/Projects/EventBook-front/node_modules/eslint/lib/api.js
-[Error - 5:46:40 PM] Cannot find module 'babel-eslint' Referenced from: /home/alex/Projects/EventBook-front/.eslintrc.json
-Warning: React version was set to "detect" in eslint-plugin-react settings, but the "react" package is not installed. Assuming latest React version for linting.
-Warning: React version was set to "detect" in eslint-plugin-react settings, but the "react" package is not installed. Assuming latest React version for linting.
-Warning: React version was set to "detect" in eslint-plugin-react settings, but the "react" package is not installed. Assuming latest React version for linting.
-[Info  - 5:46:54 PM] ESLint server stopped.

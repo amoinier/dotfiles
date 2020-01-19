@@ -1,15 +1,41 @@
 {
     "telemetry.machineId": "0fbda7ce6ef26c3850e56c6db10cececd72c40fded58aa690a29dd2a69f5ee09",
     "theme": "vs-dark",
-    "themeBackground": "#282828",
-    "pickerWorkingDir": "/home/alex/Projects/dotfiles",
+    "themeBackground": "#1d2021",
+    "pickerWorkingDir": "/home/alex",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/alex/Projects",
+            "file:///home/alex/Projects/Marketnager-front",
+            "file:///home/alex/Projects/Marketnager",
+            "file:///home/alex/Projects/express-graphql",
+            "file:///home/alex/Projects/bot-messenger-webhook",
+            "file:///home/alex/Projects/Marketnager/mongo",
+            "file:///home/alex/Projects/prisma",
+            "file:///home/alex/Projects/prisma/prisma",
+            {
+                "id": "bd1ea03a5876468a38b6b422c27b75d4",
+                "configURIPath": "file:///home/alex/Projects/casa-workspace.code-workspace"
+            },
+            "file:///home/alex/Projects/domoduino-server",
+            "file:///home/alex/Projects/tuya",
+            {
+                "id": "df80a2421b2c145aac8e3052958dc7a2",
+                "configURIPath": "file:///home/alex/Projects/workspaces/casa-gateway.code-workspace"
+            },
+            "file:///home/alex/Projects/MCAssistant",
+            "file:///home/alex/Projects/casa-flutter",
+            "file:///home/alex/Projects/casa_flutter",
+            {
+                "id": "0b842845cadf31d68f5aa425ea2119a5",
+                "configURIPath": "file:///home/alex/Projects/workspaces/marketnager.code-workspace"
+            },
+            "file:///home/alex/.config",
+            "file:///home/alex/.config/i3blocks/scripts",
+            "file:///home/alex/Projects/casa-gateway",
             "file:///home/alex/Projects/EventBook-front",
             "file:///home/alex/Projects/iTunesToRhythm",
-            "file:///home/alex/Projects/bot-messenger-webhook",
             "file:///home/alex/Projects/trackers_to_transmission",
-            "file:///home/alex/Projects/domoduino-server",
             "file:///home/alex/Downloads/themeforest-22397137-dashcore-saas-startup-software-template/html",
             "file:///home/alex/Projects/zplintr_website",
             "file:///home/alex/Projects/domoduinoreact",
@@ -18,10 +44,8 @@
             "file:///home/alex/Projects/virtuo",
             "file:///home/alex/Projects/Movies-renamer",
             "file:///home/alex/Projects/cv",
-            "file:///home/alex/.config",
             "file:///home/alex/Downloads/themeforest-22397137-dashcore-saas-startup-software-template",
             "file:///home/alex/Projects/dotfiles",
-            "file:///home/alex/Projects",
             "file:///etc/nginx",
             "file:///home/alex/Projects/DringBell",
             "file:///home/alex/Projects/mail-web",
@@ -31,6 +55,14 @@
             "file:///home/alex/Projects/stackyourcode"
         ],
         "files2": [
+            "file:///home/alex/Projects/minecraft/world/stats/27ca45e7-0aac-4dd2-8380-cc18e3dcfce7.json",
+            "file:///home/alex/Projects/minecraft/world/playerdata/dc8f69e2-b896-4bdf-8391-5736ffa4de45.dat",
+            "file:///home/alex/Desktop/alexo/Documents/SavedGames/SpeedRunners/CEngineStorage/AllPlayers/Replays/Replay_05_03_2019_20-26-03.spr",
+            "file:///home/alex/Downloads/Untitled.sql",
+            "file:///run/user/1000/gvfs/smb-share%3Aserver%3Dzonzon%2Cshare%3Dscripts/CASA/log.log",
+            "file:///home/alex/Projects/tinytuya/config.json",
+            "file:///home/alex/Downloads/Vortex.cys",
+            "file:///run/user/1000/gvfs/smb-share%3Aserver%3Dzonzon%2Cshare%3Dgames/The%20Sims%204%20%5BFitGirl%20Repack%5D/MD5/QuickSFV.ini",
             "file:///home/alex/Projects/dotfiles/installer.sh",
             "file:///home/alex/hackmonfrere.html",
             "file:///home/alex/Documents/lefilms.txt",
@@ -86,21 +118,59 @@
             "file:///home/alex/Documents/application/grepp",
             "file:///home/alex/Documents/index.phtml",
             "file:///home/alex/Documents/RosebarController.php"
+        ],
+        "workspaceLabels": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "~/Projects/casa-workspace (Workspace)",
+            null,
+            null,
+            "~/Projects/workspaces/casa-gateway (Workspace)",
+            null,
+            null,
+            null,
+            "~/Projects/workspaces/marketnager (Workspace)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
         ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "workspaceIdentifier": {
-                "id": "aa6b6761664947c7eca21a7d798f9f69",
-                "configURIPath": "file:///home/alex/.config/Code/Workspaces/1554383569187/workspace.json"
-            },
-            "backupPath": "/home/alex/.config/Code/Backups/aa6b6761664947c7eca21a7d798f9f69",
+            "folder": "file:///home/alex/Projects/Marketnager",
+            "backupPath": "/home/alex/.config/Code/Backups/2cccecd29f313b26d36bf2f054f9ae82",
             "uiState": {
                 "mode": 1,
                 "x": 2,
                 "y": 18,
                 "width": 2556,
-                "height": 1401
+                "height": 1400
             }
         },
         "openedWindows": []
@@ -148,23 +218,46 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/alex/Projects/EventBook-front",
-                                        "path": "/home/alex/Projects/EventBook-front",
+                                        "fsPath": "/home/alex/Projects",
+                                        "external": "file:///home/alex/Projects",
+                                        "path": "/home/alex/Projects",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/EventBook-front"
+                                    "label": "~/Projects"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/alex/Projects/iTunesToRhythm",
-                                        "path": "/home/alex/Projects/iTunesToRhythm",
+                                        "external": "file:///home/alex/Projects/Marketnager-front",
+                                        "path": "/home/alex/Projects/Marketnager-front",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/iTunesToRhythm"
+                                    "label": "~/Projects/Marketnager-front"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alex/Projects/Marketnager",
+                                        "path": "/home/alex/Projects/Marketnager",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/Marketnager"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alex/Projects/express-graphql",
+                                        "path": "/home/alex/Projects/express-graphql",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/express-graphql"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -181,12 +274,44 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/alex/Projects/trackers_to_transmission",
-                                        "path": "/home/alex/Projects/trackers_to_transmission",
+                                        "external": "file:///home/alex/Projects/Marketnager/mongo",
+                                        "path": "/home/alex/Projects/Marketnager/mongo",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Projects/trackers_to_transmission"
+                                    "label": "~/Projects/Marketnager/mongo"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alex/Projects/prisma",
+                                        "path": "/home/alex/Projects/prisma",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/prisma"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alex/Projects/prisma/prisma",
+                                        "path": "/home/alex/Projects/prisma/prisma",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/prisma/prisma"
+                                },
+                                {
+                                    "id": "openRecentWorkspace",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "path": "/home/alex/Projects/casa-workspace.code-workspace",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/casa-workspace (Workspace)"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -200,62 +325,95 @@
                                     "label": "~/Projects/domoduino-server"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/Downloads/themeforest-22397137-dashcore-saas-startup-software-template/html",
-                                        "path": "/home/alex/Downloads/themeforest-22397137-dashcore-saas-startup-software-template/html",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/themeforest-22397137-dashcore-saas-startup-software-template/html"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/Projects/zplintr_website",
-                                        "path": "/home/alex/Projects/zplintr_website",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Projects/zplintr_website"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/Projects/domoduinoreact",
-                                        "path": "/home/alex/Projects/domoduinoreact",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Projects/domoduinoreact"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/Projects/tinder",
-                                        "path": "/home/alex/Projects/tinder",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Projects/tinder"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/Projects/flutter",
-                                        "path": "/home/alex/Projects/flutter",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Projects/flutter"
-                                },
-                                {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alex/Projects/minecraft/world/stats/27ca45e7-0aac-4dd2-8380-cc18e3dcfce7.json",
+                                        "path": "/home/alex/Projects/minecraft/world/stats/27ca45e7-0aac-4dd2-8380-cc18e3dcfce7.json",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/minecraft/world/stats/27ca45e7-0aac-4dd2-8380-cc18e3dcfce7.json"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alex/Projects/minecraft/world/playerdata/dc8f69e2-b896-4bdf-8391-5736ffa4de45.dat",
+                                        "path": "/home/alex/Projects/minecraft/world/playerdata/dc8f69e2-b896-4bdf-8391-5736ffa4de45.dat",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/minecraft/world/playerdata/dc8f69e2-b896-4bdf-8391-5736ffa4de45.dat"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alex/Desktop/alexo/Documents/SavedGames/SpeedRunners/CEngineStorage/AllPlayers/Replays/Replay_05_03_2019_20-26-03.spr",
+                                        "path": "/home/alex/Desktop/alexo/Documents/SavedGames/SpeedRunners/CEngineStorage/AllPlayers/Replays/Replay_05_03_2019_20-26-03.spr",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/alexo/Documents/SavedGames/SpeedRunners/CEngineStorage/AllPlayers/Replays/Replay_05_03_2019_20-26-03.spr"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alex/Downloads/Untitled.sql",
+                                        "path": "/home/alex/Downloads/Untitled.sql",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/Untitled.sql"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///run/user/1000/gvfs/smb-share%3Aserver%3Dzonzon%2Cshare%3Dscripts/CASA/log.log",
+                                        "path": "/run/user/1000/gvfs/smb-share:server=zonzon,share=scripts/CASA/log.log",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/run/user/1000/gvfs/smb-share:server=zonzon,share=scripts/CASA/log.log"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alex/Projects/tinytuya/config.json",
+                                        "path": "/home/alex/Projects/tinytuya/config.json",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Projects/tinytuya/config.json"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/alex/Downloads/Vortex.cys",
+                                        "path": "/home/alex/Downloads/Vortex.cys",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Downloads/Vortex.cys"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///run/user/1000/gvfs/smb-share%3Aserver%3Dzonzon%2Cshare%3Dgames/The%20Sims%204%20%5BFitGirl%20Repack%5D/MD5/QuickSFV.ini",
+                                        "path": "/run/user/1000/gvfs/smb-share:server=zonzon,share=games/The Sims 4 [FitGirl Repack]/MD5/QuickSFV.ini",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/run/user/1000/gvfs/smb-share:server=zonzon,share=games/The Sims 4 [FitGirl Repack]/MD5/QuickSFV.ini"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -278,94 +436,6 @@
                                     },
                                     "enabled": true,
                                     "label": "~/hackmonfrere.html"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/Documents/lefilms.txt",
-                                        "path": "/home/alex/Documents/lefilms.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents/lefilms.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/AndroidStudioProjects/MyApplication/app/build.gradle",
-                                        "path": "/home/alex/AndroidStudioProjects/MyApplication/app/build.gradle",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/AndroidStudioProjects/MyApplication/app/build.gradle"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/AndroidStudioProjects/MyApplication/gradle.properties",
-                                        "path": "/home/alex/AndroidStudioProjects/MyApplication/gradle.properties",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/AndroidStudioProjects/MyApplication/gradle.properties"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/AndroidStudioProjects/MyApplication/settings.gradle",
-                                        "path": "/home/alex/AndroidStudioProjects/MyApplication/settings.gradle",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/AndroidStudioProjects/MyApplication/settings.gradle"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/AndroidStudioProjects/MyApplication/local.properties",
-                                        "path": "/home/alex/AndroidStudioProjects/MyApplication/local.properties",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/AndroidStudioProjects/MyApplication/local.properties"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/Arduino%20%EF%80%A2%20Raspberry%20%EF%80%A2%20Domotique/speech_to_text.xhtml",
-                                        "path": "/home/alex/Arduino  Raspberry  Domotique/speech_to_text.xhtml",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Arduino  Raspberry  Domotique/speech_to_text.xhtml"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/Arduino%20%EF%80%A2%20Raspberry%20%EF%80%A2%20Domotique/advancedsettings.xml",
-                                        "path": "/home/alex/Arduino  Raspberry  Domotique/advancedsettings.xml",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Arduino  Raspberry  Domotique/advancedsettings.xml"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/alex/Downloads/themeforest-22397137-dashcore-saas-startup-software-template/html/app.html",
-                                        "path": "/home/alex/Downloads/themeforest-22397137-dashcore-saas-startup-software-template/html/app.html",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Downloads/themeforest-22397137-dashcore-saas-startup-software-template/html/app.html"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -408,7 +478,8 @@
                     },
                     {
                         "id": "workbench.action.files.saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -425,6 +496,10 @@
                                 {
                                     "id": "workbench.action.openSettings",
                                     "label": "&&Settings"
+                                },
+                                {
+                                    "id": "settings.filterByOnline",
+                                    "label": "&&Online Services Settings"
                                 },
                                 {
                                     "id": "workbench.view.extensions",
@@ -475,7 +550,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Workspace"
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -592,6 +667,10 @@
                         "label": "Move &&Line Down"
                     },
                     {
+                        "id": "editor.action.duplicateSelection",
+                        "label": "&&Duplicate Selection"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -644,46 +723,58 @@
                             "items": [
                                 {
                                     "id": "workbench.action.toggleFullScreen",
-                                    "label": "Toggle &&Full Screen"
+                                    "label": "&&Full Screen"
                                 },
                                 {
                                     "id": "workbench.action.toggleZenMode",
-                                    "label": "Toggle Zen Mode"
+                                    "label": "Zen Mode"
                                 },
                                 {
                                     "id": "workbench.action.toggleCenteredLayout",
-                                    "label": "Toggle Centered Layout"
-                                },
-                                {
-                                    "id": "workbench.action.toggleMenuBar",
-                                    "label": "Toggle Menu &&Bar"
+                                    "label": "Centered Layout"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.toggleMenuBar",
+                                    "label": "Show Menu &&Bar",
+                                    "checked": true
+                                },
+                                {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "&&Toggle Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.toggleStatusbarVisibility",
+                                    "label": "Show S&&tatus Bar",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.toggleActivityBarVisibility",
+                                    "label": "Show &&Activity Bar",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.toggleEditorVisibility",
+                                    "label": "Show &&Editor Area",
+                                    "checked": true
+                                },
+                                {
+                                    "id": "workbench.action.togglePanel",
+                                    "label": "Show &&Panel"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarPosition",
                                     "label": "&&Move Side Bar Right"
                                 },
                                 {
-                                    "id": "workbench.action.toggleStatusbarVisibility",
-                                    "label": "&&Hide Status Bar"
-                                },
-                                {
                                     "id": "workbench.action.togglePanelPosition",
-                                    "label": "Toggle Panel Position"
-                                },
-                                {
-                                    "id": "workbench.action.toggleActivityBarVisibility",
-                                    "label": "Hide &&Activity Bar"
-                                },
-                                {
-                                    "id": "workbench.action.togglePanel",
-                                    "label": "Toggle &&Panel"
+                                    "label": "Move Panel Right"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -820,20 +911,20 @@
                     },
                     {
                         "id": "editor.action.toggleMinimap",
-                        "label": "Toggle &&Minimap",
+                        "label": "Show &&Minimap",
                         "checked": true
                     },
                     {
+                        "id": "breadcrumbs.toggle",
+                        "label": "Show &&Breadcrumbs"
+                    },
+                    {
                         "id": "editor.action.toggleRenderWhitespace",
-                        "label": "Toggle &&Render Whitespace"
+                        "label": "&&Render Whitespace"
                     },
                     {
                         "id": "editor.action.toggleRenderControlCharacter",
-                        "label": "Toggle &&Control Characters"
-                    },
-                    {
-                        "id": "breadcrumbs.toggle",
-                        "label": "Toggle &&Breadcrumbs"
+                        "label": "Render &&Control Characters"
                     }
                 ]
             },
@@ -841,7 +932,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -850,7 +942,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -959,8 +1052,12 @@
                         "label": "Go to &&Symbol in File..."
                     },
                     {
-                        "id": "editor.action.goToDeclaration",
+                        "id": "editor.action.revealDefinition",
                         "label": "Go to &&Definition"
+                    },
+                    {
+                        "id": "editor.action.revealDeclaration",
+                        "label": "Go to &&Declaration"
                     },
                     {
                         "id": "editor.action.goToTypeDefinition",
@@ -968,7 +1065,11 @@
                     },
                     {
                         "id": "editor.action.goToImplementation",
-                        "label": "Go to &&Implementation"
+                        "label": "Go to &&Implementations"
+                    },
+                    {
+                        "id": "editor.action.goToReferences",
+                        "label": "Go to &&References"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1013,7 +1114,7 @@
                     },
                     {
                         "id": "workbench.action.debug.run",
-                        "label": "Start &&Without Debugging"
+                        "label": "Run &&Without Debugging"
                     },
                     {
                         "id": "workbench.action.debug.stop",
@@ -1269,12 +1370,17 @@
                 "userSettingsLabel": "ctrl+o"
             },
             "workbench.action.files.openFolder": {
-                "label": "Ctrl+Shift+O",
-                "userSettingsLabel": "ctrl+shift+o"
+                "label": "Ctrl+K Ctrl+O",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+o"
             },
             "workbench.action.reopenClosedEditor": {
                 "label": "Ctrl+Shift+T",
                 "userSettingsLabel": "ctrl+shift+t"
+            },
+            "workbench.action.openRecent": {
+                "label": "Ctrl+R",
+                "userSettingsLabel": "ctrl+r"
             },
             "workbench.action.files.save": {
                 "label": "Ctrl+S",
@@ -1283,6 +1389,10 @@
             "workbench.action.files.saveAs": {
                 "label": "Ctrl+Shift+Alt+S",
                 "userSettingsLabel": "ctrl+shift+alt+s"
+            },
+            "workbench.action.openSettings": {
+                "label": "Ctrl+,",
+                "userSettingsLabel": "ctrl+,"
             },
             "workbench.view.extensions": {
                 "label": "Ctrl+Shift+X",
@@ -1313,8 +1423,8 @@
                 "userSettingsLabel": "ctrl+k f"
             },
             "workbench.action.closeWindow": {
-                "label": "Ctrl+Shift+W",
-                "userSettingsLabel": "ctrl+shift+w"
+                "label": "Ctrl+W",
+                "userSettingsLabel": "ctrl+w"
             },
             "workbench.action.quit": {
                 "label": "Ctrl+Q",
@@ -1357,9 +1467,8 @@
                 "userSettingsLabel": "ctrl+shift+h"
             },
             "editor.action.commentLine": {
-                "label": "Super+K Super+C",
-                "isNative": false,
-                "userSettingsLabel": "meta+k meta+c"
+                "label": "Ctrl+/",
+                "userSettingsLabel": "ctrl+/"
             },
             "editor.action.blockComment": {
                 "label": "Ctrl+Shift+A",
@@ -1386,36 +1495,36 @@
                 "userSettingsLabel": "ctrl+shift+alt+up"
             },
             "editor.action.copyLinesDownAction": {
-                "label": "Ctrl+Shift+D",
-                "userSettingsLabel": "ctrl+shift+d"
+                "label": "Ctrl+Shift+Alt+Down",
+                "userSettingsLabel": "ctrl+shift+alt+down"
             },
             "editor.action.moveLinesUpAction": {
-                "label": "Ctrl+Up",
-                "userSettingsLabel": "ctrl+up"
+                "label": "Alt+Up",
+                "userSettingsLabel": "alt+up"
             },
             "editor.action.moveLinesDownAction": {
-                "label": "Ctrl+Down",
-                "userSettingsLabel": "ctrl+down"
+                "label": "Alt+Down",
+                "userSettingsLabel": "alt+down"
             },
             "editor.action.insertCursorAbove": {
-                "label": "Ctrl+Shift+Up",
-                "userSettingsLabel": "ctrl+shift+up"
+                "label": "Shift+Alt+Up",
+                "userSettingsLabel": "shift+alt+up"
             },
             "editor.action.insertCursorBelow": {
-                "label": "Ctrl+Shift+Down",
-                "userSettingsLabel": "ctrl+shift+down"
+                "label": "Shift+Alt+Down",
+                "userSettingsLabel": "shift+alt+down"
             },
             "editor.action.insertCursorAtEndOfEachLineSelected": {
-                "label": "Shift+Alt+L",
-                "userSettingsLabel": "shift+alt+l"
+                "label": "Shift+Alt+I",
+                "userSettingsLabel": "shift+alt+i"
             },
             "editor.action.addSelectionToNextFindMatch": {
                 "label": "Ctrl+D",
                 "userSettingsLabel": "ctrl+d"
             },
             "editor.action.selectHighlights": {
-                "label": "Alt+F3",
-                "userSettingsLabel": "alt+f3"
+                "label": "Ctrl+Shift+L",
+                "userSettingsLabel": "ctrl+shift+l"
             },
             "workbench.action.showCommands": {
                 "label": "Ctrl+Shift+P",
@@ -1426,12 +1535,17 @@
                 "userSettingsLabel": "f11"
             },
             "workbench.action.toggleZenMode": {
-                "label": "Shift+F11",
-                "userSettingsLabel": "shift+f11"
+                "label": "Ctrl+K Z",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k z"
             },
             "workbench.action.toggleSidebarVisibility": {
-                "label": "Ctrl+\\",
-                "userSettingsLabel": "ctrl+\\"
+                "label": "Ctrl+B",
+                "userSettingsLabel": "ctrl+b"
+            },
+            "workbench.action.togglePanel": {
+                "label": "Ctrl+J",
+                "userSettingsLabel": "ctrl+j"
             },
             "workbench.action.zoomIn": {
                 "label": "Ctrl+=",
@@ -1478,6 +1592,10 @@
             "workbench.action.terminal.toggleTerminal": {
                 "label": "Ctrl+`",
                 "userSettingsLabel": "ctrl+`"
+            },
+            "workbench.actions.view.problems": {
+                "label": "Ctrl+Shift+M",
+                "userSettingsLabel": "ctrl+shift+m"
             },
             "editor.action.toggleWordWrap": {
                 "label": "Alt+Z",
@@ -1553,28 +1671,36 @@
                 "userSettingsLabel": "ctrl+k ctrl+down"
             },
             "workbench.action.quickOpen": {
-                "label": "Ctrl+E",
-                "userSettingsLabel": "ctrl+e"
+                "label": "Ctrl+P",
+                "userSettingsLabel": "ctrl+p"
             },
             "workbench.action.showAllSymbols": {
                 "label": "Ctrl+T",
                 "userSettingsLabel": "ctrl+t"
             },
             "workbench.action.gotoSymbol": {
-                "label": "Ctrl+R",
-                "userSettingsLabel": "ctrl+r"
+                "label": "Ctrl+Shift+O",
+                "userSettingsLabel": "ctrl+shift+o"
+            },
+            "editor.action.revealDefinition": {
+                "label": "F12",
+                "userSettingsLabel": "f12"
             },
             "editor.action.goToImplementation": {
                 "label": "Ctrl+F12",
                 "userSettingsLabel": "ctrl+f12"
+            },
+            "editor.action.goToReferences": {
+                "label": "Shift+F12",
+                "userSettingsLabel": "shift+f12"
             },
             "workbench.action.gotoLine": {
                 "label": "Ctrl+G",
                 "userSettingsLabel": "ctrl+g"
             },
             "editor.action.jumpToBracket": {
-                "label": "Ctrl+M",
-                "userSettingsLabel": "ctrl+m"
+                "label": "Ctrl+Shift+\\",
+                "userSettingsLabel": "ctrl+shift+\\"
             },
             "editor.action.marker.nextInFiles": {
                 "label": "F8",
@@ -1612,6 +1738,14 @@
                 "label": "F10",
                 "userSettingsLabel": "f10"
             },
+            "workbench.action.debug.stepInto": {
+                "label": "F11",
+                "userSettingsLabel": "f11"
+            },
+            "workbench.action.debug.stepOut": {
+                "label": "Shift+F11",
+                "userSettingsLabel": "shift+f11"
+            },
             "workbench.action.debug.continue": {
                 "label": "F5",
                 "userSettingsLabel": "f5"
@@ -1642,8 +1776,8 @@
                 "userSettingsLabel": "ctrl+k ctrl+r"
             },
             "workbench.action.toggleDevTools": {
-                "label": "Ctrl+Alt+I",
-                "userSettingsLabel": "ctrl+alt+i"
+                "label": "Ctrl+Shift+I",
+                "userSettingsLabel": "ctrl+shift+i"
             }
         }
     }

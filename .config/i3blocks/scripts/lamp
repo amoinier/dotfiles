@@ -1,0 +1,8 @@
+#!/bin/bash
+
+case $BLOCK_BUTTON in
+  1) curl -s -o /dev/null -v "http://192.168.1.131/toggle" ;;  # right click, mute/unmute
+
+esac
+
+echo '☼ '

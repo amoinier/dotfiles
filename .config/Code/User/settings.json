@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Gruvbox Dark (Medium)",
     "window.zoomLevel": 1,
     "editor.snippetSuggestions": "top",
     "atomKeymap.promptV3Features": true,
@@ -13,5 +12,13 @@
     "[ejs]": {},
     "editor.tabSize": 2,
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "eslint.autoFixOnSave": true,
+    "workbench.colorTheme": "Gruvbox Dark Hard",
+    "sync.gist": "957a0c4ac2cfb0fc672b08ea2bad8eea",
+    "go.useLanguageServer": true,
+    "go.autocompleteUnimportedPackages": true,
+    "dart.flutterSdkPath": "/home/alex/Projects/flutter/bin",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.alwaysShowStatus": true
 }
